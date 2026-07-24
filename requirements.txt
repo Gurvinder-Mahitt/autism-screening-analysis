@@ -1,7 +1,0 @@
-# Core dependencies (both MySQL and SQLite versions)
-pandas>=2.0.0
-streamlit>=1.32.0
-plotly>=5.18.0
-
-# MySQL version only (SQLite uses Python's built-in sqlite3 module)
-pymysql>=1.1.0
