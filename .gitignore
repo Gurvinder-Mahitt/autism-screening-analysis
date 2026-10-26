@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+extract_cells.py
+inspect_encoders.py
+inspect_model.py
+screenshots/
